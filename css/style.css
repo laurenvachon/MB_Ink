@@ -227,7 +227,7 @@ p span {
 }
 
 #double li {width: 47%; margin-right: 2%;}
-#triple li  { width:33.333%; } 
+#triple li  { width:33.333%; }
 #quad li    { width:25%; }
 #six li     { width:16.666%; }
 /*brands */
@@ -263,7 +263,7 @@ p span {
     margin-right: 8%;
 }
 img.b-photo {
-    max-width: 110px;
+    max-width: 100px;
 }
 
 /*social media */
